@@ -1,4 +1,4 @@
-### Oii, Bem-vindx!
+### Oii, Bem-vindo(a)!
 
 - 🩸 Developer back-end ...
 
