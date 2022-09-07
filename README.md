@@ -34,7 +34,7 @@
     
 <h3 align="left">Connect with me:</h3></br>
 
-<a href="https://discord.com/users/616979994765295723" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="40" height="40"/> </a>
-<a href="https://www.linkedin.com/in/adryelli-reis-3505601ab/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/adryelli_reis/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> </a>
-<a href="https://twitter.com/AdryelliDos" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="40" height="40"/> </a>
+<a href="https://discord.com/users/897990202839166976" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/onaissac/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/onaissac_/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> </a>
+<a href="https://twitter.com/kaah_znll" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="40" height="40"/> </a>
