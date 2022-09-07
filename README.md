@@ -1,34 +1,40 @@
-### Oi, Bem-vindo(a)!
+<h1 align="center" > Onai</h1>
+</br>
 
-- 🩸 Developer back-end ...
+<p align="center" >「 Oi, Bem-vindo(a)! 」</p></br>
 
-<div align="center">
-  <a href="https://github.com/onai-js">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onai-js&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onai-js&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
+- 🩸 Trabalho atualmente na equipe MrDev's.
+- 🚀 Profissional em automação de bots em Node.js
+- 🍃 Trabalhando no projeto de um atendente whatsapp bot
+- 🤖 Crio bots de moderação total e aprovação para FiveM
+
+<br><div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onai-js&layout=compact&langs_count=7&theme=dark"/>
+</div><br>
+
+<h3 align="left">Linguagens e ferramentas:</h3>
+
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Rafa-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
+  <img align="center" alt="Onai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Onai-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Onai-Js" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Onai-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Onai-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Onai-Py" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Onai-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/898568378858500118/966513202571649034/New_Project_14_783818B.gif?width=676&height=676">
-</div>
-    
-  ##
-  
-  <div>
-    
-  <a href="https://instagram.com/onaissac_
-" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/gz7GjyNDx9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:conttatok4ziin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-![Snake animation](https://github.com/onai-js/onai-js/blob/output/github-contribution-grid-snake.svg)
+<img align="center" alt="Onai-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+<img align="center" alt="Onai-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="Onai-Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+<img align="center" alt="Onai-djs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg">
 
-  </div>
+</div><br>
+    
+<h3 align="left">Connect with me:</h3></br>
 
+<a href="https://discord.com/users/616979994765295723" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/adryelli-reis-3505601ab/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/adryelli_reis/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> </a>
+<a href="https://twitter.com/AdryelliDos" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="40" height="40"/> </a>
