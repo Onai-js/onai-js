@@ -32,7 +32,7 @@
 
 </div><br>
     
-<h3 align="left">Connect with me:</h3></br>
+<h3 align="left">Sociais:</h3></br>
 
 <a href="https://discord.com/users/897990202839166976" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/onaissac/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> </a>
