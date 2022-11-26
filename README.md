@@ -7,7 +7,7 @@
 - 📤 Full system automation for boring day to day activities;
 
 <br><div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onai-js&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onai-js&layout=compact&langs_count=7&theme=cobalt"/>
 </div><br>
 
 <h3 align="left">Languages ​​and tools:</h3>
