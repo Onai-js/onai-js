@@ -1,12 +1,14 @@
 <h1 align="center" > Hello World! <img src="https://i.imgur.com/qfRWQvB.gif" width="3%"></h1>
 </br>
-
-
+<font size="4">I'm Onaissac <img src="https://cdn.pixabay.com/animation/2022/08/05/18/24/18-24-53-297_512.gif" width="3%"></font>
+ 
 - 🩸 I currently work as a freelancer;
 - 🚀 Professional with Node.js systems;
 - 📤 Full system automation for boring day to day activities;
 
+<font size="1">sorry for English ;)</font>
 
+</br>
 <h3 align="left">Languages ​​and tools:</h3>
 
   <div style="display: inline_block"><br>
