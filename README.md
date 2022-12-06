@@ -1,6 +1,6 @@
 <h1 align="center" > Hello World! <img src="https://i.imgur.com/qfRWQvB.gif" width="3%"></h1>
 </br>
-<font size="4"><img src="https://cdn.pixabay.com/animation/2022/08/05/18/24/18-24-53-297_512.gif" width="2%"> I'm Onaissac</font>
+<font size="4">I'm Onaissac</font>
  
 - 🩸 I currently work as a freelancer;
 - 🚀 Professional with Node.js systems;
